@@ -10,3 +10,21 @@ h1 {
 div {
     background-color: cornflowerblue;
 }
+
+.top-container {
+    background-color:lightseagreen
+    width: 100px;
+    height: 100px;
+}
+
+.mid-container {
+    background-color: darkorange;
+    width: 100px;
+    height: 100px;
+}
+
+.bottom-container {
+    background-color: crimson;
+    width: 100px;
+    height: 100px;
+}

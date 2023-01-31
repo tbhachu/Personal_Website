@@ -15,12 +15,15 @@ div {
     background-color:lightseagreen;
     width: 100px;
     height: 100px;
+    border: solid;
+    padding: 10px;
 }
 
 .mid-container {
     background-color: darkorange;
     width: 100px;
     height: 100px;
+    border: solid 15px;
 }
 
 .bottom-container {

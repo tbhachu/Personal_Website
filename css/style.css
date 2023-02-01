@@ -1,6 +1,7 @@
 body {
     background-color: rgb(186, 221, 221);
     margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
@@ -12,7 +13,7 @@ div {
 }
 
 .top-container {
-    background-color:lightseagreen;
+    background-color: lightseagreen;
     width: 100px;
     height: 100px;
     border: solid;

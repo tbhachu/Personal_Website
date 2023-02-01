@@ -24,10 +24,12 @@ div {
     width: 100px;
     height: 100px;
     border: solid 15px;
+    position: absolute;
 }
 
 .bottom-container {
     background-color: crimson;
     width: 100px;
     height: 100px;
+    position: relative;
 }
